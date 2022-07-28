@@ -1,0 +1,40 @@
+.d1{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin:0 15px;
+}
+
+
+.but1{
+    padding:10px;
+    border-radius:50%;
+    border:none;
+    box-shadow:1px 1px 15px 1px silver;
+}
+
+
+.d2{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+
+.pee{
+    color:silver;
+    padding-top:15px;
+}
+
+
+.ech3{
+    margin-top:5px;
+}
+
+
+.but2{
+    border:none;
+    background-color:transparent;
+}
+ 

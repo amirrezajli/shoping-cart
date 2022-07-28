@@ -1,0 +1,24 @@
+.lii{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin:20px;
+    border-radius:15px;
+    border:1px solid silver;
+}
+
+.imgg{
+    width:100px;
+    border-radius:10px;
+    margin-right:10px;
+    padding:7px; 
+}
+
+.btt{
+    padding:20px;
+    margin-left:20px;
+    background-color:pink;
+    border-radius:25px;
+    border:none;
+    color:white;
+}
